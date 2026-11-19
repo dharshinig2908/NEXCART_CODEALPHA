@@ -7,7 +7,7 @@ const {
 } = require("../controllers/authController");
 
 const authMiddleware = require("../middleware/authMiddleware");
-const User = require("../models/User");
+const User = require("../models/user");
 
 // Registration API
 router.post("/register", registerUser);
