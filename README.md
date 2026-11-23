@@ -21,7 +21,7 @@ NEXCART is a modern e-commerce website with a simple and user-friendly shopping 
 - JWT
 
 ## Live Demo
-PASTE_YOUR_RENDER_LINK_HERE
+https://nexcart-codealpha.onrender.com
 
 ## GitHub Repository
 https://github.com/dharshinig2908/NEXCART_CODEALPHA
